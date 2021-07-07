@@ -1,12 +1,10 @@
-# I am Harshita nayak, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi,I am Harshita Nayak <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Harshita Nayak, currently pursuing my B.Tech  in Information Technology from Rajkiya Engineering College. I am a tech enthusiast & open source contributor. I am always open to collaborating on projects and innovative disruptive  ideas.8. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-harshita-nayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-nayak/)](https://www.linkedin.com/in/harshita-nayak/)
+[![Linkedin Badge](https://img.shields.io/badge/-harshita-nayak-b791871b4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-nayak-b791871b4/)](https://www.linkedin.com/in/harshita-nayak/)
 [![Instagram Badge](https://img.shields.io/badge/-harshita.nayak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshita.nayak/)](https://instagram.com/harshita.nayak)
 [![Gmail Badge](https://img.shields.io/badge/-harshitanayak40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitanayak40@gmail.com)](mailto:harshitanayak40@gmail.com)
-
-[!['s github activity graph](https://activity-graph.herokuapp.com/graph?username=harshita9621&theme=xcode)](https://git.io/harshita9621)
 
 
 ## ⚡ Technologies
