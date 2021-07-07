@@ -2,7 +2,7 @@
 
 I am Harshita Nayak, currently pursuing my B.Tech  in Information Technology from Rajkiya Engineering College. I am a tech enthusiast & open source contributor. I am always open to collaborating on projects and innovative disruptive  ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-harshita-nayak-b791871b4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=harshita-nayak-b791871b4/)](https://www.linkedin.com/in/harshita-nayak-b791871b4/)
+[![Linkedin Badge](https://img.shields.io/badge/-harshita-nayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=harshita-nayak/)](https://www.linkedin.com/in/harshita-nayak/)
 [![Instagram Badge](https://img.shields.io/badge/-harshita.nayak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshita.nayak/)](https://instagram.com/harshita.nayak)
 [![Gmail Badge](https://img.shields.io/badge/-harshitanayak40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitanayak40@gmail.com)](mailto:harshitanayak40@gmail.com)
 
