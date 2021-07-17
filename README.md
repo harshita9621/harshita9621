@@ -9,6 +9,9 @@ I am Harshita Nayak, currently pursuing my B.Tech  in Information Technology fro
 
 ![x](https://komarev.com/ghpvc/?username=harshita9621&label=PROFILE+VIEWS)
 
+[![harshita9621 github activity graph](https://activity-graph.herokuapp.com/graph?username=harshita9621&theme=xcode)](https://git.io/harshita9621)
+
+
 
 ## ⚡ Technologies
 
