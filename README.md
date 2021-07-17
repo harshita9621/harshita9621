@@ -7,6 +7,9 @@ I am Harshita Nayak, currently pursuing my B.Tech  in Information Technology fro
 [![Gmail Badge](https://img.shields.io/badge/-harshitanayak40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitanayak40@gmail.com)](mailto:harshitanayak40@gmail.com)
 
 
+![x](https://komarev.com/ghpvc/?username=harshita9621&label=PROFILE+VIEWS)
+
+
 ## ⚡ Technologies
 
 ### Language :
